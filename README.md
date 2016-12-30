@@ -10,5 +10,5 @@
 
 ___
 #Credit:
-[I'm an inline-style link with title](http://khaninejad.ir "Payam Khaninejad")
-[I'm an inline-style link with title](https://copify.ir "کپی رایتر")
+[Payam Khaninejad](http://khaninejad.ir "Payam Khaninejad")
+[کپی رایتر](https://copify.ir "کپی رایتر")
